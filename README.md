@@ -74,7 +74,5 @@ This project includes synthetic data generation, database setup, and Power BI an
 4. **Visualizations**  
    - **Overview Page**: KPI cards (Total Users, Total Revenue, CAC, LTV, ROI), line charts for monthly new users and revenue.
    - **Financial Performance Page**: Financial metrics (ARPU, MRR, ROI), waterfall chart for net profit by channel, cumulative revenue vs. cost.
-   - **Acquisition Matrix**: Table showing new users, CAC, ROI by channel and month.
-   - **Retention Matrix**: Heatmap of retention rates for cohorts across months.
 
 
